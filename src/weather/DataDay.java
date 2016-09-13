@@ -1,6 +1,7 @@
+package weather;
 /**
  * 
- * @author CS2334.  Modified by: ?????
+ * @author Eric Gonzalez CS2334.  Modified by: Zachery Miller
  * <P>
  * Date: 2015-09-10 <BR>
  * Project 1
